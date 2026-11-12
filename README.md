@@ -44,9 +44,8 @@ And while you think, five pixel koi swim under the glass.
 
 ## Demo
 
-<!-- On github.com, edit this README and drag docs/video/koi-demo-under-10mb.mp4 (or the HQ
-     version, if your plan allows 100 MB) onto the line below. GitHub uploads it and inserts a
-     https://github.com/user-attachments/assets/... link, which it shows as a video player. -->
+https://github.com/user-attachments/assets/f6d6132c-0656-461f-b16d-7bce965596c5
+
 
 A 2½-minute walkthrough: asking about the weather, the model library, MCP connectors and the
 calendar, settings, and writing code with a local model.
