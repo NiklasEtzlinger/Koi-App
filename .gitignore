@@ -1,1 +1,4 @@
 .DS_Store
+# Raw and exported videos (too large for git; upload MP4s via drag & drop on github.com)
+*.mov
+*.mp4

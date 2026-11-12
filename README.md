@@ -1,6 +1,6 @@
 <!-- Screenshots: add the images below to docs/screenshots/ (see the list at the end of this file). -->
 <p align="center">
-  <img src="docs/screenshots/hero.png" width="820" alt="Koi: a pixel koi pond under a Liquid Glass composer">
+  <img src="docs/screenshots/hero.gif" width="820" alt="Koi: asking a question over the pixel koi pond">
 </p>
 
 <h1 align="center">Koi</h1>
@@ -42,6 +42,15 @@ And while you think, five pixel koi swim under the glass.
 - **Bring your own key (optional).** Connect OpenRouter, NVIDIA or Mistral with your own API key.
 - **Designed for the Mac.** A Liquid Glass composer, a Metal-rendered koi pond, light and dark
   themes, a peeking sidebar, and markdown with syntax highlighting and readable math.
+
+## Demo
+
+<!-- On github.com, edit this README and drag docs/video/koi-demo-under-10mb.mp4 (or the HQ
+     version, if your plan allows 100 MB) onto the line below. GitHub uploads it and inserts a
+     https://github.com/user-attachments/assets/... link, which it shows as a video player. -->
+
+A 2½-minute walkthrough: asking about the weather, the model library, MCP connectors and the
+calendar, settings, and writing code with a local model.
 
 ## Screenshots
 
