@@ -1,4 +1,3 @@
-<!-- Screenshots: add the images below to docs/screenshots/ (see the list at the end of this file). -->
 <p align="center">
   <img src="docs/screenshots/hero.gif" width="820" alt="Koi: asking a question over the pixel koi pond">
 </p>
@@ -54,9 +53,9 @@ calendar, settings, and writing code with a local model.
 
 ## Screenshots
 
-| Chat | Model library | Tools |
+| Chat | Model library | MCP connectors |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/chat.png" width="270" alt="A chat with a local model"> | <img src="docs/screenshots/models.png" width="270" alt="The model library"> | <img src="docs/screenshots/tools.png" width="270" alt="A weather card and a calendar answer"> |
+| <img src="docs/screenshots/chat.png" width="270" alt="A local model writing Python code"> | <img src="docs/screenshots/models.png" width="270" alt="The model library with models that run well on this Mac"> | <img src="docs/screenshots/connectors.png" width="270" alt="The Apple Calendar MCP connector"> |
 
 ## How it works
 
@@ -145,12 +144,3 @@ weather by [Open-Meteo](https://open-meteo.com) · web search via DuckDuckGo
 ## License
 
 © 2026 Niklas Etzlinger. All rights reserved.
-
-<!--
-Screenshots to add in docs/screenshots/:
-  hero.png    the home screen: koi pond with the composer (light or dark)
-  chat.png    a conversation with thinking, markdown or code
-  models.png  the model library with local models grouped by fit
-  tools.png   a weather card, a web-search answer with sources, or a calendar answer
-Tip: a short GIF of the koi reacting to a click on the water makes a great hero image.
--->
